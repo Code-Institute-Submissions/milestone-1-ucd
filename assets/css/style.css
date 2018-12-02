@@ -32,15 +32,19 @@ header {
   	font-family: 'Roboto', cursive;
 }
 
+
 .navbar-nav {
 	float: none;
 	text-align: center;
 }
 
+/* ---fix dropdown menu 
+
 .navbar-nav li{
 	display: inline-block;
 	float: none;
 }
+*/
 
 .navbar-default .navbar-brand {
     color: #008dcb;
