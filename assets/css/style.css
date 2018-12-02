@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+
+/*--------------------------------------------body*/
+
+
+/*----------------------------------Colour palette*/
+
+/*--Orange - #f47d4a
+Fushia - #e1315b
+Lemon drop - #ffec5c
+Blue/Raspberry - #008dcb
+
+Electric blue - #4897d8
+banana #ffdb5c
+watermelon #fa6e59
+canteloupe #f8a055--*/
+
+/*-----------------------------------------header*/
+
+header {
+	margin: 0;
+	padding-top: 70px;
+}
+
+.navbar {
+	background-color: #ffec5c;
+  	margin-bottom: 70px;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	border: 0;
+  	font-family: 'Roboto', cursive;
+}
+
+.navbar-nav {
+	float: none;
+	text-align: center;
+}
+
+.navbar-nav li{
+	display: inline-block;
+	float: none;
+}
+
+.navbar-default .navbar-brand {
+    color: #008dcb;
+}
+
+/*------------------------------------------------footer*/
+
+footer {
+	background-color: #ffec5c;
+	font-family: cursive, cursive;
+	padding: 20px;
+	color: #008dcb;
+}
+
+footer .logo {
+	text-align: center;
+	margin: 0 auto;
+}
+
+footer .contact-details {
+	text-align: center;
+	margin: 20px auto;
+}
+
+footer .social-links {
+	text-align: center;
+	margin: 30px auto;
+}
+
+
+.fa-social-icons li a i{
+	color: #008dcb;
+	font-size: 30px;
+	display: inline-block;
+	transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-pinterest:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+
+/*--------------------------------------------media queries*/
