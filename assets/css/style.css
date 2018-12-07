@@ -59,10 +59,8 @@ header {
 	color: #008dcb;
 }
 
-.contact-header {
-	text-align: center;
-	padding: 20px;
-}
+
+
 /*----------------------Body*/
 
 
@@ -77,7 +75,7 @@ header {
 	height: 90%;
 	border: 5px solid #fa6e59 ;
 	border-radius: 25px;
-	padding: 20px 10px 10px 10px;
+	padding: 10px;
 	margins: 10px;
 }
 
@@ -92,8 +90,22 @@ button[type="submit"] {
 	font-family: 'Charmonman', cursive;
 	font-weight: 700;
 	color: #008dcb;
+	text-align: center;
+	padding: 20px;
 }
 
+.contact-info-bd {
+	font-family: 'Charmonman', cursive;
+	font-weight: 700;
+	color: #f47d4a;
+	text-align: center;
+	padding: 20px;
+
+}
+
+.contact-info-bd h1 {
+	color: #e1315b;
+}
 /*------------------------------------------------footer*/
 
 footer {
@@ -139,6 +151,7 @@ footer .social-links {
 }
 
 
+
 /*--------------------------------------------media queries*/
  
 @media(min-width: 768px) {
@@ -147,7 +160,7 @@ footer .social-links {
 		height: 70%;
 		border: 10px solid #fa6e59 ;
 		border-radius: 25px;
-		padding: 30px 0px 10px 0px;
+		padding: 10px 0px 10px 0px;
 		margins: 20px;
 	}
 
