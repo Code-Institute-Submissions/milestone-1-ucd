@@ -1,37 +1,43 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
-
+@import url('https://fonts.googleapis.com/css?family=Charmonman:400,700&subset=latin-ext,thai,vietnamese')
 /*--------------------------------------------body*/
-
+body {
+	padding: 20px 0 0;
+}
 
 /*----------------------------------Colour palette*/
 
-/*--Orange - #f47d4a
+/*--
+Orange - #f47d4a
 Fushia - #e1315b
 Lemon drop - #ffec5c
 Blue/Raspberry - #008dcb
-
 Electric blue - #4897d8
 banana #ffdb5c
 watermelon #fa6e59
-canteloupe #f8a055--*/
+canteloupe #f8a055  
+--*/
 
 /*-----------------------------------------header*/
 
 header {
-	margin: 0;
-	padding-top: 70px;
+	margin: 40px;
+	padding: 20px;
 }
 
 .navbar {
 	background-color: #ffec5c;
-  	margin-bottom: 70px;
-  	top: 0;
+   	top: 0;
   	left: 0;
   	width: 100%;
   	border: 0;
-  	font-family: 'Roboto', cursive;
+  	font-family: 'Charmonman', cursive;
+  	color: #008dcb;
+  	font-size: 1.5em;
 }
 
+.menu:hover {
+	color: rgba(0, 0, 0, 0.7);
+}
 
 .navbar-nav {
 	float: none;
@@ -39,7 +45,6 @@ header {
 }
 
 /* ---fix dropdown menu 
-
 .navbar-nav li{
 	display: inline-block;
 	float: none;
@@ -48,15 +53,54 @@ header {
 
 .navbar-default .navbar-brand {
     color: #008dcb;
+    font-size: 1.5em;
+}
+.navbar-default .nav-link {
+	color: #008dcb;
+}
+
+.contact-header {
+	text-align: center;
+	padding: 20px;
+}
+/*----------------------Body*/
+
+
+/*------------------------------------------------Contact page*/
+.contact-form {
+	font-family: 'Charmonman', cursive;
+	font-weight: 700;
+	color: #008dcb;
+	font-size: 1.5em;
+	padding: 30px;	
+	width: 90%;
+	height: 90%;
+	border: 5px solid #fa6e59 ;
+	border-radius: 25px;
+	padding: 20px 10px 10px 10px;
+	margins: 10px;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #fa6e59;
+    color: #ffffff;
+}
+
+.contact-header {
+	font-family: 'Charmonman', cursive;
+	font-weight: 700;
+	color: #008dcb;
 }
 
 /*------------------------------------------------footer*/
 
 footer {
 	background-color: #ffec5c;
-	font-family: cursive, cursive;
-	padding: 20px;
+	font-family: 'Charmonman', cursive;
 	color: #008dcb;
+	margin-top: 70px;
 }
 
 footer .logo {
@@ -67,13 +111,13 @@ footer .logo {
 footer .contact-details {
 	text-align: center;
 	margin: 20px auto;
+	font-weight: 700;
 }
 
 footer .social-links {
 	text-align: center;
 	margin: 30px auto;
 }
-
 
 .fa-social-icons li a i{
 	color: #008dcb;
@@ -96,3 +140,16 @@ footer .social-links {
 
 
 /*--------------------------------------------media queries*/
+ 
+@media(min-width: 768px) {
+	.contact-form {
+		width: 70%;
+		height: 70%;
+		border: 10px solid #fa6e59 ;
+		border-radius: 25px;
+		padding: 30px 0px 10px 0px;
+		margins: 20px;
+	}
+
+}
+
