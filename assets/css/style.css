@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Charmonman:400,700&subset=latin-ext,thai,vietnamese')
+@import url('https://fonts.googleapis.com/css?family=Charm|Roboto:300,400,500,700');
+
 /*--------------------------------------------body*/
-body {
-	padding: 20px 0 0;
-}
+
 
 /*----------------------------------Colour palette*/
 
@@ -20,7 +19,7 @@ canteloupe #f8a055
 /*-----------------------------------------header*/
 
 header {
-	margin: 40px;
+	margin: 20px;
 	padding: 20px;
 }
 
@@ -30,7 +29,7 @@ header {
   	left: 0;
   	width: 100%;
   	border: 0;
-  	font-family: 'Charmonman', cursive;
+  	font-family: 'Charm', cursive;
   	color: #008dcb;
   	font-size: 1.5em;
 }
@@ -44,13 +43,6 @@ header {
 	text-align: center;
 }
 
-/* ---fix dropdown menu 
-.navbar-nav li{
-	display: inline-block;
-	float: none;
-}
-*/
-
 .navbar-default .navbar-brand {
     color: #008dcb;
     font-size: 1.5em;
@@ -62,11 +54,67 @@ header {
 
 
 /*----------------------Body*/
+/*------------------------------------------------Index page*/
+.exercise-photo {
+  width: 100%;
+  height: auto;
+  padding-bottom: 20px;
+}
+.profile-pic {
+	width: 100%;
+  	height: auto;
+  	padding-bottom: 20px;
+}
 
+.about-me {
+	font-family: 'Roboto', sans-serif;
+	font-size: 120%;
+}
+
+/*-------------------------Testimonials*/
+hr {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: #4897d8;
+}
+
+.testimonal-headings {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	color: #e1315b;
+}
+
+.testimonials {
+	margin: 30px;
+	padding-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	display: block;
+    text-align: center;     
+}
+
+.testimonial-photo {
+	border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.client-name {
+	font-weight: 700;
+	color: #f47d4a;
+	font-size: 120%;
+}
 
 /*------------------------------------------------Contact page*/
 .contact-form {
-	font-family: 'Charmonman', cursive;
+	font-family: 'Charm', cursive;
 	font-weight: 700;
 	color: #008dcb;
 	font-size: 1.5em;
@@ -87,7 +135,7 @@ button[type="submit"] {
 }
 
 .contact-header {
-	font-family: 'Charmonman', cursive;
+	font-family: 'Charm', cursive;
 	font-weight: 700;
 	color: #008dcb;
 	text-align: center;
@@ -95,7 +143,7 @@ button[type="submit"] {
 }
 
 .contact-info-bd {
-	font-family: 'Charmonman', cursive;
+	font-family: 'Charm', cursive;
 	font-weight: 700;
 	color: #f47d4a;
 	text-align: center;
@@ -110,7 +158,7 @@ button[type="submit"] {
 
 footer {
 	background-color: #ffec5c;
-	font-family: 'Charmonman', cursive;
+	font-family: 'Charm', cursive;
 	color: #008dcb;
 	margin-top: 70px;
 }
