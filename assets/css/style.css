@@ -1,7 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Charm|Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Charm:400,700');
 
 /*--------------------------------------------body*/
+body {
+	font-family: 'Charm', cursive;
 
+}
+
+hr {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: #4897d8;
+	margin-top:0;
+}
 
 /*----------------------------------Colour palette*/
 
@@ -10,16 +21,16 @@ Orange - #f47d4a
 Fushia - #e1315b
 Lemon drop - #ffec5c
 Blue/Raspberry - #008dcb
+
+watermelon #fa6e59
 Electric blue - #4897d8
 banana #ffdb5c
-watermelon #fa6e59
 canteloupe #f8a055  
 --*/
 
 /*-----------------------------------------header*/
 
 header {
-	margin: 20px;
 	padding: 20px;
 }
 
@@ -29,9 +40,8 @@ header {
   	left: 0;
   	width: 100%;
   	border: 0;
-  	font-family: 'Charm', cursive;
   	color: #008dcb;
-  	font-size: 1.5em;
+  	font-size: 150%;
 }
 
 .menu:hover {
@@ -49,16 +59,25 @@ header {
 }
 .navbar-default .nav-link {
 	color: #008dcb;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #e1315b;
 }
 
 
-
 /*----------------------Body*/
-/*------------------------------------------------Index page*/
+/*--------------------------------------------------Index page*/
+.pg-body{
+	background-color: #f7f7f7;
+}
+
 .exercise-photo {
   width: 100%;
   height: auto;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
+  padding-top: 40px;
 }
 .profile-pic {
 	width: 100%;
@@ -67,20 +86,25 @@ header {
 }
 
 .about-me {
-	font-family: 'Roboto', sans-serif;
+	font-size: 130%;
+	padding-bottom: 20px;
+}
+
+.index-title {
+	color: #008dcb;
+}
+
+.benefits {
+	padding-bottom: 20px;
+	padding-left: 30P;
 	font-size: 120%;
-}
 
+}
 /*-------------------------Testimonials*/
-hr {
-	width: 50%;
-	margin-left: auto;
-	margin-right: auto;
-	border-color: #4897d8;
-}
 
-.testimonal-headings {
-	font-family: 'Roboto', sans-serif;
+
+.testimonial-headings {
+	font-family: 'Charm', cursive;
 	font-weight: 700;
 	color: #e1315b;
 }
@@ -88,10 +112,12 @@ hr {
 .testimonials {
 	margin: 30px;
 	padding-bottom: 30px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Charm', cursive;
 	font-weight: 300;
 	display: block;
-    text-align: center;     
+    text-align: center;  
+    color: #f47d4a; 
+    font-size: 120%;  
 }
 
 .testimonial-photo {
@@ -104,21 +130,202 @@ hr {
     
 }
 
-
-
 .client-name {
 	font-weight: 700;
 	color: #f47d4a;
-	font-size: 120%;
+	font-size: 125%;
+}
+/*--------------------------------------------Yoga for Kids page*/
+
+.yogakids {
+	padding-top: 20px;
+	font-size: 130%;
+	padding-bottom: 20px;
 }
 
+.yogavideo {
+  	text-align: center;
+  	padding: 20px;
+}
+
+.yoga-hd {
+	color: #e1315b;
+	text-align: center
+}
+
+.yoga-schedule {
+	font-size: 130%;
+}
+
+.schedule-hd {
+	color: #008dcb;
+	font-weight: 700;
+}
+
+ul.detail-list {
+	list-style-type: square;
+}
+
+.yogapic1 {
+	float: left;
+ 	width: 250px;
+ 	height: 250px;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+}
+
+.yogapic2 {
+ 	width: 100%;
+ 	height: auto;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+}
+
+.yogahd {
+	color: #f47d4a;
+	font-weight: 700;
+}
+/*-------------------------------------- Personal Training Page*/
+
+.pt-pic {
+	width: 100%;
+	height: auto;
+	padding-bottom: 30px;
+
+}
+
+.pt-photos {
+	padding-top: 40px;
+}
+
+.kasia-pt {
+	font-size: 130%;
+}
+
+.pt-hd {
+	color: #e1315b;
+	font-weight: 700;
+}
+
+/*-----------------------------------Pricing info*/
+
+table, th, td {
+  border: 1px solid black;
+  margin: 10px 0;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+	font-size:120%;
+	color: #f47d4a;
+}
+
+.pt-pricing {
+	padding: 20px;
+}
+
+.pricing {
+	padding-top: 20px;
+	padding-left: 20px;
+	font-weight: 700;
+	color: #f47d4a;
+}
+/*------------------------------------------------Nutrition page*/
+
+.food-pic {
+	float: left;
+ 	width: 380px;
+ 	height: 380px;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+}
+
+.food {
+	font-size: 120%;
+	padding-top: 20px;
+}
+
+a.contact-link {
+	text-decoration: none;
+}
+
+h1.food-hd {
+	color: #008dcb;
+	text-align: center;
+
+}
+
+h2.sample-hd {
+	color:#f47d4a;
+}
+
+.food-items-bl {
+	font-size: 120%;
+	text-align: center;
+	padding-top: 20%;
+}
+
+.sample-pic {
+	width: 100%;
+	height: auto;
+	padding: 20px 0;
+	
+}
+
+.sample-items {
+	font-size: 130%;
+}
+/*-------------------------Recipe Section*/
+.recipe-pic{
+	width: 100%;
+	height: auto;	
+}
+
+.recipe-headings {
+	font-weight: 700;
+	color: #e1315b;
+}
+
+.recipes {
+	border: 3px solid #fa6e59;
+	border-radius: 15px;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+.recipes h3 {
+	color: #008dcb;
+}
+
+.recipes h4 {
+	color: #e1315b;
+}
+
+.recipes h5 {
+	font-weight: 700;
+	font-size: 110%;
+}
+
+.recipe-font {
+	font-size: 110%;
+}
+
+
 /*------------------------------------------------Contact page*/
+.contact-page {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
 .contact-form {
 	font-family: 'Charm', cursive;
 	font-weight: 700;
 	color: #008dcb;
-	font-size: 1.5em;
-	padding: 30px;	
+	font-size: 1.5em;	
 	width: 90%;
 	height: 90%;
 	border: 5px solid #fa6e59 ;
@@ -160,7 +367,7 @@ footer {
 	background-color: #ffec5c;
 	font-family: 'Charm', cursive;
 	color: #008dcb;
-	margin-top: 70px;
+	padding-top: 20px;
 }
 
 footer .logo {
@@ -211,6 +418,7 @@ footer .social-links {
 		padding: 10px 0px 10px 0px;
 		margins: 20px;
 	}
-
+	
 }
+
 
