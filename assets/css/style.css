@@ -185,6 +185,7 @@ ul.detail-list {
 	color: #f47d4a;
 	font-weight: 700;
 }
+
 /*-------------------------------------- Personal Training Page*/
 
 .pt-pic {
@@ -417,6 +418,14 @@ footer .social-links {
 		border-radius: 25px;
 		padding: 10px 0px 10px 0px;
 		margins: 20px;
+	}
+	
+}
+
+@media(min-width: 1024px) {
+	iframe {
+		width: 450px;
+		height: 315px;
 	}
 	
 }
