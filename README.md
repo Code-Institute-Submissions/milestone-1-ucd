@@ -10,17 +10,21 @@ It will hopefully bring more clients who will be using more of her services, pos
 There are separate pages targeting each service she provides as well as a contact page to get in contact with any queries or request for additional information.  
 
 ### User Stories:
-	•	A potential client looking for a local personal trainer can see what services are offered & the cost.
+	•	A potential client looking for a local personal trainer can see what services are 
+	offered & the cost.
 
 	•	A parent can check the schedule for the ‘Yoga for Kids’ and the price.  
 
-	•	A current client can see the other services are available eg. Nutritional food plans or group sessions vs one to one sessions
+	•	A current client can see the other services are available eg. Nutritional food plans 
+	or group sessions vs one to one sessions
 
 	•	A client or potential client can find recipes for healthy dishes
 
-	•	Clients can follow recipes, workouts or photos on various social media site: Facebook, Instagram, Twitter, Pinterest & videos on Youtube
+	•	Clients can follow recipes, workouts or photos on various social media site: 
+	Facebook, Instagram, Twitter, Pinterest & videos on Youtube
 
-	•	Parents & children can watch & follow along with either of the two ‘yoga for kids’ videos
+	•	Parents & children can watch & follow along with either of the two ‘yoga for kids’ 
+	videos
 
 The Wireframes for the original layout have been included in the folder assets/wireframes/wireframes.pdf
 Initially there was going to be a separate page for all the pricing & schedule but as Kasia is still tweaking the prices for the meal plans, the pricing & schedule for both the personal training & yoga for Kids has been included on the respective pages.  For additional information on the prices for the meal services, one would need to either contact Kasia via the contact form or by email/telephone.  
@@ -30,8 +34,10 @@ Initially there was going to be a separate page for all the pricing & schedule b
 ### Existing Features
 
 ### Features Left to Implement
-	•	Client Account & sign-in: to track selected meal plans, pre pay for personal training/yoga/nutritional food services.
-	•	Full meal plan form.  This will allow meals for the week to be selected by client.
+	•	Client Account & sign-in: to track selected meal plans, pre pay for 
+	personal training/yoga/nutritional food services.
+	•	Full meal plan form.  This will allow meals for the week to be selected 
+	by client.
 	•	A booking form for classes and Class schedule availability.
 
 ## Technologies Used
