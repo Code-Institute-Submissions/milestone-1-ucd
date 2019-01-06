@@ -60,8 +60,9 @@ The link, which is in the last line of 'Personal Training' Prices & Details sect
 The link, which is in the last line of 'Nutrition' Food Glorious food section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.
 
 #### Feature 8:  Contact page - Contact form
-The contact form allows clients/users to submit queries and request more information.  The form can be filled out with the miminum amount of information which is Name & Email Address but there are other options that can be filled out.  The phone number can be included, this is optional.  There are three tick boxes where the services that are of interest can be specified.  None or all of these can be ticked.  There is also a box where the user can pose their own specific queries.
-The final feature of the form is the submit button.  If the two criteria, Name & Email address are met, the form will be submitted once clicked. 
+The contact form allows clients/users to submit queries and request more information.  The form can be filled out with the mininum amount of required information, which is Name & Email Address.  However, there are other options that can be filled in if so desired.  The phone number can be included, this is optional.  There are three tick boxes where the services that are of interest can be specified.  None or all of these can be checkboxes can be ticked.  There is also a box where the user can pose their own specific queries.
+
+The final feature of the form is the submit button.  If the two required criteria, Name & Email address, are met, the form will be submitted when the submit button is clicked. 
 
 ### Features Left to Implement
 
@@ -160,10 +161,10 @@ Once corrected, the responsiveness acted as expected for all the content.
 #####  Contact
    1.  Tested that the contact form box scaled down correctly in all size displays
 
-###Browsers
+###  Browsers
 I tested the website on the following browsers:  Safari, Google Chrome, Internet Explorer and Firefox.  
 For each browser I tested the following:
-1.  All the Navagational links worked, as well as the Navagational hamburger collapse in various screen sizes. 
+1.  All the Navigational links worked, as well as the Navigational hamburger collapse in various screen sizes. 
 2.  The contact link on each page; Index, Personal Training, Yoga for Kids & Nutrion, that this link takes you to the Contact Page.
 3.  On the Yoga for Kids page, I tested the embedded videos and that they played correctly. 
 4.  All the social Media links are working and opening up in a new tab.  (These are currently not linked to an external social media site so they currently open up the same page of the Zesty Fitness website on a new tab rather than the applicable social media site.)
