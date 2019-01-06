@@ -105,7 +105,7 @@ header {
 
 .benefits {
 	padding-bottom: 20px;
-	padding-left: 30P;
+	padding-left: 30px;
 	font-size: 120%;
 
 }
@@ -336,7 +336,7 @@ h2.sample-hd {
 	border: 5px solid #fa6e59 ;
 	border-radius: 25px;
 	padding: 10px;
-	margins: 10px;
+	align-content: center;
 }
 
 button[type="submit"] {
@@ -348,7 +348,7 @@ button[type="submit"] {
 
 .contact-header {
 	font-weight: 700;
-	color: #008dcb;
+	color: #008dsb;
 	text-align: center;
 	padding: 20px;
 }
@@ -418,7 +418,7 @@ footer .social-links {
 		border: 10px solid #fa6e59 ;
 		border-radius: 25px;
 		padding: 10px 0px 10px 0px;
-		margins: 20px;
+		margin: 20px;
 	}
 	
 }

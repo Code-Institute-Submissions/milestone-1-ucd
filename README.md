@@ -38,8 +38,8 @@ There original design was to include a video with the personal training page but
 
 #### Feature 1:  Navigational Bar
 The fixed navigational bar allows uses to navigate around the website with ease by clicking on the various pages. The hover selector changes this to black when hovering over a page link. 
-The navigational bar collapses down to a hamburger icon dropdown menu when in mobile & tablet screen size view.  When hovering over the menu button this changes colour to grey with black writing.  The links in the dropdown menu change colour in the same manner as when in the full screen navigational bar; black.
-The 
+The navigational bar collapses down to a hamburger icon dropdown menu when in mobile & tablet screen size view.  When hovering over the menu button this changes colour to grey with black writing.  The links in the dropdown menu change colour in the same manner as when in the full screen navigational bar.
+
 
 #### Feature 2:  Footer Social media Icons
 The fixed footer bar incorpates the social media icons which links to Kasia's social media pages.  These are Facebook, Twitter, Pinterst, Linked-in, Instagram and her YouTube channel.  When hovering over the social media links these change colour to black.  
@@ -60,7 +60,7 @@ The link, which is in the last line of 'Personal Training' Prices & Details sect
 The link, which is in the last line of 'Nutrition' Food Glorious food section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.
 
 #### Feature 8:  Contact page - Contact form
-The contact form allows clients/users to submit queries and request more information.  The form can be filled out with the mininum amount of required information, which is Name & Email Address.  However, there are other options that can be filled in if so desired.  The phone number can be included, this is optional.  There are three tick boxes where the services that are of interest can be specified.  None or all of these can be checkboxes can be ticked.  There is also a box where the user can pose their own specific queries.
+The contact form allows clients/users to submit queries and request more information.  The form can be filled out with the mininum amount of required information, which is Name & Email Address.  However, there are other options that can be filled in if so desired.  The phone number can be included, this is optional.  There are three tick boxes where the services that are of interest can be specified.  None or all of these checkboxes can be ticked.  There is also a box where the user can pose their own specific queries.
 
 The final feature of the form is the submit button.  If the two required criteria, Name & Email address, are met, the form will be submitted when the submit button is clicked. 
 
@@ -91,7 +91,7 @@ CSS: https://www.w3.org/Style/CSS/Overview.en.html
 ### Bootstrap: 
 This project uses Bootstrap as a framework to assist in page grid layout & navigation.  Bootstrap 3.3.7 was used.
 
-https://getbootstrap.com/
+https://www.bootstrapcdn.com/
 
 ### JQuery: 
 This project uses JQuery to assist in execution of bootstrap.
