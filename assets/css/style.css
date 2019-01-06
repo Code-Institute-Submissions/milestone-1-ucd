@@ -145,7 +145,7 @@ header {
 
 .yogavideo {
   	text-align: center;
-  	padding: 20px;
+  	padding: 10px 0;
 }
 
 .yoga-hd {
@@ -237,8 +237,8 @@ th {
 
 .food-pic {
 	float: left;
- 	width: 380px;
- 	height: 380px;
+ 	width: 100%;
+ 	height: 100%;
  	padding-right: 10px;
  	padding-bottom: 10px;
 }
@@ -417,4 +417,10 @@ footer .social-links {
 	
 }
 
-
+@media(min-width: 395px) {
+	.food-pic {
+		width: 380px;
+		height: 380px;
+	}
+	
+}
