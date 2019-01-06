@@ -156,7 +156,7 @@ Once corrected, the responsiveness acted as expected for all the content.
         *  Dinner photo & Sample Menu Items
         *  The Six sample Menu Item Photos 
         *  Recipe photo & recipe ingredients/Instructions
-    3.  Tested that the boxes scaled correctly for Recipe Boxes
+   3.  Tested that the boxes scaled correctly for Recipe Boxes
 
 #####  Contact
    1.  Tested that the contact form box scaled down correctly in all size displays
@@ -164,17 +164,17 @@ Once corrected, the responsiveness acted as expected for all the content.
 ###  Browsers
 I tested the website on the following browsers:  Safari, Google Chrome, Internet Explorer and Firefox.  
 For each browser I tested the following:
-1.  All the Navigational links worked, as well as the Navigational hamburger collapse in various screen sizes. 
+1.  All the Navigational links worked, as well as the Navigational collapsed into the 'Hamburger' in various relevant screen sizes. 
 2.  The contact link on each page; Index, Personal Training, Yoga for Kids & Nutrion, that this link takes you to the Contact Page.
 3.  On the Yoga for Kids page, I tested the embedded videos and that they played correctly. 
-4.  All the social Media links are working and opening up in a new tab.  (These are currently not linked to an external social media site so they currently open up the same page of the Zesty Fitness website on a new tab rather than the applicable social media site.)
+4.  All the social Media links are working and opening up in a new tab.  (These are currently not linked to an external social media site so they currently open up the same page of the Zesty Fitness website in a new tab rather than the applicable social media site.)
 5.  The Form completion and submission.  
 	* There are two required fields on the form.  Name & Email. 
 		1.  Tested that the Name field was filled in but left email blank.  An error message displays that stipulates that the Email field needs to be filled in. "Please fill in this field". 
 		2.  Tested the email field is correctly filled in but the name field is left blank.  An error message displays that stipulates that the Name field needs to be filled in. "Please fill in this field".
-		3.  Tested if the format of the email address is incorrectly typed in, eg. kasiaholzer.  An error message is displayed stipulating that an '@' is required in the email address.   "Please include an '@' in the email address. kasiaholzer is missing an '@'"
+		3.  Tested if the format of the email address is incorrectly inputted, eg. kasiaholzer.  An error message is displayed stipulating that an '@' is required in the email address.   "Please include an '@' in the email address. kasiaholzer is missing an '@'"
 		4.  Tested that it is possible to click three, two, one or none in the 'Of interest' Checkboxes.  
-		5.  Tested that it is possible to leave the text area box blank and also to write a in this text field.
+		5.  Tested that it is possible to leave the text area box blank and also to write a query in this text field.
 		6.  Tested the submit button.  If the required fields are entered, this submits the form.  
  
 ## Deployment
@@ -185,7 +185,7 @@ The deployed version can be viewed at: https://eileenpeacock.github.io/milestone
 ## Credits
 
 ### Content
-All text was written by me apart from the ‘Yoga for Kids’ page where the content was taken from http://www.pilatesdynamics.co.za/yoga-for-kids
+All text was written by me apart from the ‘Yoga for Kids’ page where the content was taken from http://www.pilatesdynamics.co.za/yoga-for-kids &  on the 'Nutrition' page the recipes were all provided by Kasia.  
 
 #### Media: Photos
 1.	The following photos are all Kasia’s personal photos: 
