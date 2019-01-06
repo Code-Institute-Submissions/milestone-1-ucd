@@ -36,30 +36,30 @@ There original design was to include a video with the personal training page but
 
 ### Existing Features
 
-####Feature 1:  Navigational Bar
+#### Feature 1:  Navigational Bar
 The fixed navigational bar allows uses to navigate around the website with ease by clicking on the various pages. The hover selector changes this to black when hovering over a page link. 
 The navigational bar collapses down to a hamburger icon dropdown menu when in mobile & tablet screen size view.  When hovering over the menu button this changes colour to grey with black writing.  The links in the dropdown menu change colour in the same manner as when in the full screen navigational bar; black.
 The 
 
-####Feature 2:  Footer Social media Icons
+#### Feature 2:  Footer Social media Icons
 The fixed footer bar incorpates the social media icons which links to Kasia's social media pages.  These are Facebook, Twitter, Pinterst, Linked-in, Instagram and her YouTube channel.  When hovering over the social media links these change colour to black.  
 
-####Feature 3:  Index page - Link to contact form
+#### Feature 3:  Index page - Link to contact form
 The link, which is in the last line of Kasia's about me section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.
 
-####Feature 4:  Yoga for Kids page - Link to contact form
+#### Feature 4:  Yoga for Kids page - Link to contact form
 The link, which is in the last line of 'Yoga for Kids' Schedule & details section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.  
 
-####Feature 5:  Yoga for Kids page - Embedded videos
+#### Feature 5:  Yoga for Kids page - Embedded videos
 Two videos are embedded into the 'Yoga for Kids' page.  Users have various choices to interact with the videos, some of which are press play, pause, stop and control the volume.   
 
-####Feature 6:  Personal Training page - Link to contact form
+#### Feature 6:  Personal Training page - Link to contact form
 The link, which is in the last line of 'Personal Training' Prices & Details section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.
 
-####Feature 7:  Nutrition page - Link to contact form
+#### Feature 7:  Nutrition page - Link to contact form
 The link, which is in the last line of 'Nutrition' Food Glorious food section, links to the Contact page; where you are able to contact Kasia for more info or with queries using the contact form. When hovering over the contact link, a pointer cursor is shown and the link changes colour from blue to blue/black.
 
-####Feature 8:  Contact page - Contact form
+#### Feature 8:  Contact page - Contact form
 The contact form allows clients/users to submit queries and request more information.  The form can be filled out with the miminum amount of information which is Name & Email Address but there are other options that can be filled out.  The phone number can be included, this is optional.  There are three tick boxes where the services that are of interest can be specified.  None or all of these can be ticked.  There is also a box where the user can pose their own specific queries.
 The final feature of the form is the submit button.  If the two criteria, Name & Email address are met, the form will be submitted once clicked. 
 
@@ -151,10 +151,10 @@ Once corrected, the responsiveness acted as expected for all the content.
 #####  Nutrition
    1.  Tested that the profile picture 3 scaled when below the breakpoint, and once it was above that breakpoint it stayed fixed as per the media query.  
    2.  Test breakpoints of grid items and that these are correctly shown in all screensizes.
-      *  Profile Picture 3 & Nutrional page info
-      *  Dinner photo & Sample Menu Items
-      *  The Six sample Menu Item Photos 
-      *  Recipe photo & recipe ingredients/Instructions
+        *  Profile Picture 3 & Nutrional page info
+        *  Dinner photo & Sample Menu Items
+        *  The Six sample Menu Item Photos 
+        *  Recipe photo & recipe ingredients/Instructions
     3.  Tested that the boxes scaled correctly for Recipe Boxes
 
 #####  Contact
@@ -169,15 +169,16 @@ For each browser I tested the following:
 4.  All the social Media links are working and opening up in a new tab.  (These are currently not linked to an external social media site so they currently open up the same page of the Zesty Fitness website on a new tab rather than the applicable social media site.)
 5.  The Form completion and submission.  
 	* There are two required fields on the form.  Name & Email. 
-		1.  Tested that filled in Name but left email blank.  Error message displays referencing Email field that the field needs to be filled in. 'Please fill in this field'. 
-		2.  Tested if the email is correctly filled in but left the name field blank.  Error message displays referencing Name field that the field needs to be filled in. 'Please fill in this field'.
-		3.  Tested if the format of the email address is incorrectly typed in, eg. kasiaholzer, error message is displayed stipulating that @ is required in email address.   "Please include an '@' in the email address. kasiaholzer is missing an '@'"
+		1.  Tested that the Name field was filled in but left email blank.  An error message displays that stipulates that the Email field needs to be filled in. "Please fill in this field". 
+		2.  Tested the email field is correctly filled in but the name field is left blank.  An error message displays that stipulates that the Name field needs to be filled in. "Please fill in this field".
+		3.  Tested if the format of the email address is incorrectly typed in, eg. kasiaholzer.  An error message is displayed stipulating that an '@' is required in the email address.   "Please include an '@' in the email address. kasiaholzer is missing an '@'"
 		4.  Tested that it is possible to click three, two, one or none in the 'Of interest' Checkboxes.  
-		5.  Tested that it is possible to leave the text area box blank and also to write a request in.
+		5.  Tested that it is possible to leave the text area box blank and also to write a in this text field.
 		6.  Tested the submit button.  If the required fields are entered, this submits the form.  
  
 ## Deployment
 The Website is hosted on GitHub, there are no differences between the deployed and development versions.
+
 The deployed version can be viewed at: https://eileenpeacock.github.io/milestone-1-ucd/.
 
 ## Credits
@@ -187,23 +188,23 @@ All text was written by me apart from the ‘Yoga for Kids’ page where the con
 
 #### Media: Photos
 1.	The following photos are all Kasia’s personal photos: 
-		*	Kasia.jpg
-		*	Kasia3.jpg
-		*	Gabby.jpg
-		*	Rob.jpg
-		*	Rose.jpg
-		*	Sharon.jpg
-		*	Hummus.jpg
-		*	Dinner.png
-		*	Carrotchorizo.jpg
-		*	Carrotcake.jpg
-		*	Beetrootrisotto.jpg
-		*	Lasagne.png
-		*	Chocolate.png
-		*	Beef.jpg
-		*	Curry.jpg
-		*	Tumericchicken.png
-		*	Warmsalad.jpg
+	* Kasia.jpg
+	* Kasia3.jpg
+	* Gabby.jpg
+	* Rob.jpg
+	* Rose.jpg
+	* Sharon.jpg
+	* Hummus.jpg
+	* Dinner.png
+	* Carrotchorizo.jpg
+	* Carrotcake.jpg
+	* Beetrootrisotto.jpg
+	* Lasagne.png
+	* Chocolate.png
+	* Beef.jpg
+	* Curry.jpg
+	* Tumericchicken.png
+	* Warmsalad.jpg
 2.	Exercisemat.jpg– Photo by rawpixel on Unsplash https://unsplash.com/photos/dof5cCeXER4
 3.	Kasia2.jpg – Photo ‘Shape’ by Tammy Gann on Unsplash https://unsplash.com/photos/610V59jwByI
 4.	Zestyfitness.png – Logo from Free Logo Design – www.freelogodesign.org
