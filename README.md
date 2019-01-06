@@ -32,7 +32,7 @@ Initially there was going to be a separate page for all the pricing & schedule b
 I would like to create a customer client account where the client will have the ability to track which meals have been selected from a choice of meals, pre-pay for personal training (as well as select a slot for personal training), yoga and/or nutritional food services.
 
 #### Feature 2: Full meal plan form.  
-This will allow meals for the week to be selected by client.  This will beincorporated in the Client Account above.
+This will allow meals for the week to be selected by client.  This will be incorporated in the Client Account above.
 
 #### Feature 3: Class booking form
 I would like to add a booking form for classes.  
@@ -89,23 +89,23 @@ All text was written by me apart from the ‘Yoga for Kids’ page where the con
 
 #### Media: Photos
 1.	The following photos are all Kasia’s personal photos: 
-	o	Kasia.jpg
-	o	Kasia3.jpg
-	o	Gabby.jpg
-	o	Rob.jpg
-	o	Rose.jpg
-	o	Sharon.jpg
-	o	Hummus.jpg
-	o	Dinner.png
-	o	Carrotchorizo.jpg
-	o	Carrotcake.jpg
-	o	Beetrootrisotto.jpg
-	o	Lasagne.png
-	o	Chocolate.png
-	o	Beef.jpg
-	o	Curry.jpg
-	o	Tumericchicken.png
-	o	Warmsalad.jpg
+	•	Kasia.jpg
+	•	Kasia3.jpg
+	•	Gabby.jpg
+	•	Rob.jpg
+	•	Rose.jpg
+	•	Sharon.jpg
+	•	Hummus.jpg
+	•	Dinner.png
+	•	Carrotchorizo.jpg
+	•	Carrotcake.jpg
+	•	Beetrootrisotto.jpg
+	•	Lasagne.png
+	•	Chocolate.png
+	•	Beef.jpg
+	•	Curry.jpg
+	•	Tumericchicken.png
+	•	Warmsalad.jpg
 2.	Exercisemat.jpg– Photo by rawpixel on Unsplash https://unsplash.com/photos/dof5cCeXER4
 3.	Kasia2.jpg – Photo ‘Shape’ by Tammy Gann on Unsplash https://unsplash.com/photos/610V59jwByI
 4.	Zestyfitness.png – Logo from Free Logo Design – www.freelogodesign.org
@@ -120,7 +120,7 @@ All text was written by me apart from the ‘Yoga for Kids’ page where the con
 2.	Video 2 is from YouTube: https://www.youtube.com/embed/S2owM2ogGb8
 
 ## Acknowledgements
-•	I received inspiration for this project from Kasia & her personal style.  She is fun and out-going and I wanted the website to express that.  
+I received inspiration for this project from Kasia & her personal style.  She is fun and out-going and I wanted the website to express that.  
 
 
 
