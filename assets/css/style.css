@@ -284,6 +284,10 @@ h2.sample-hd {
 .sample-items {
 	font-size: 130%;
 }
+
+ul.sample-items li {
+	margin: 20px;
+}
 /*-------------------------Recipe Section*/
 .recipe-pic{
 	width: 100%;
