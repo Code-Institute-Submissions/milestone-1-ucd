@@ -8,6 +8,8 @@ She wanted a website that showcases what she offers to her clients and potential
 
 This webpage was created as the first milestone project as part of the Code Institute ‘Full Stack Development’ course.  
 
+The deployed version can be viewed at: https://eileenpeacock.github.io/milestone-1-ucd/.
+
 This is for educational purposes only.
 
 ## UX
@@ -117,7 +119,7 @@ https://fonts.google.com/
 Local git repository was pushed to remote repository on GitHub and site was published using GitHub pages.
 
 https://git-scm.com/ 
-https://github.com/
+
 
 ### Sublime Text
 This project was coded on Sublime Text. 
